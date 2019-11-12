@@ -6,8 +6,8 @@
   <body>
   <font face= "Arial Black">
     <h1>DATOS PERSONALES</h1>
-
-    
+  </font>
+    <font size="5px" face="Arial Rounded MT Bold">
 
     <p>Nombres: Joel Andrés </p>
     <p>Apellidos: Alejandro Salinas</p>
